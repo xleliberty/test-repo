@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/eliberty/test-repo#readme",
   "devDependencies": {
+    "conventional-changelog-conventionalcommits": "^4.2.3",
     "semantic-release": "^17.0.4"
   }
 }
