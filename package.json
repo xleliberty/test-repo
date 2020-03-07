@@ -1,0 +1,22 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "repo for jenkins tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliberty/test-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliberty/test-repo/issues"
+  },
+  "homepage": "https://github.com/eliberty/test-repo#readme",
+  "devDependencies": {
+    "semantic-release": "^17.0.4"
+  }
+}
