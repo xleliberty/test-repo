@@ -1,3 +1,14 @@
+## [2.0.0](https://github.com/eliberty/test-repo/compare/v1.3.2...v2.0.0) (2020-03-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* upsize two
+
+### Features
+
+* add major ([601a469](https://github.com/eliberty/test-repo/commit/601a469f2141c793c59c871c4eddfe7d2b2938ee))
+
 ### [1.3.2](https://github.com/eliberty/test-repo/compare/v1.3.1...v1.3.2) (2020-03-07)
 
 
