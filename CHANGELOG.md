@@ -1,3 +1,14 @@
+## [3.0.0](https://github.com/eliberty/test-repo/compare/v2.0.0...v3.0.0) (2020-03-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* major 3
+
+### Features
+
+* major 3 ([bba2356](https://github.com/eliberty/test-repo/commit/bba2356bd81c586750afbc363685d1f437d8f7d3))
+
 ## [2.0.0](https://github.com/eliberty/test-repo/compare/v1.3.2...v2.0.0) (2020-03-07)
 
 
