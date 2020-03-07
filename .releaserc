@@ -20,6 +20,9 @@
         "commitsSort": ["subject", "scope"]
       }
     }],
+    ["@semantic-release/changelog", {
+      "changelogFile": "CHANGELOG.md",
+    }],
     "@semantic-release/github"
   ]
 }
