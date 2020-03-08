@@ -1,3 +1,11 @@
+### [3.0.2](https://github.com/eliberty/test-repo/compare/v3.0.1...v3.0.2) (2020-03-07)
+
+
+### Bug Fixes
+
+* fix 29 ([a9348eb](https://github.com/eliberty/test-repo/commit/a9348eb1aa04f413ee7e877a2fe02c2da49b31cf))
+* trente ([aea77ce](https://github.com/eliberty/test-repo/commit/aea77cece507ac6d94339fd9db1810a825f6fee9))
+
 ### [3.0.1](https://github.com/eliberty/test-repo/compare/v3.0.0...v3.0.1) (2020-03-07)
 
 
