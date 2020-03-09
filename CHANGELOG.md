@@ -1,3 +1,10 @@
+## [3.2.0](https://github.com/eliberty/test-repo/compare/v3.1.0...v3.2.0) (2020-03-09)
+
+
+### Features
+
+* add test25 ([d142f21](https://github.com/eliberty/test-repo/commit/d142f218ea3ca445b08edbfa16d1e3f307f3799d))
+
 ## [3.1.0](https://github.com/eliberty/test-repo/compare/v3.0.6...v3.1.0) (2020-03-09)
 
 
