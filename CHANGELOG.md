@@ -1,3 +1,15 @@
+## [3.1.0](https://github.com/eliberty/test-repo/compare/v3.0.6...v3.1.0) (2020-03-09)
+
+
+### Features
+
+* add 33  feat ([0b3228c](https://github.com/eliberty/test-repo/commit/0b3228c70b919bf408414aede0122dcb927bd80a))
+
+
+### Bug Fixes
+
+* correct bug test 21 ([609679c](https://github.com/eliberty/test-repo/commit/609679c8754165d71aa0b0f99dbdc96773bb4ca8))
+
 ### [3.0.6](https://github.com/eliberty/test-repo/compare/v3.0.5...v3.0.6) (2020-03-09)
 
 
