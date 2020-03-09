@@ -1,3 +1,10 @@
+### [3.0.6](https://github.com/eliberty/test-repo/compare/v3.0.5...v3.0.6) (2020-03-09)
+
+
+### Bug Fixes
+
+* add fix for test22 ([7e1f149](https://github.com/eliberty/test-repo/commit/7e1f149cbd95ac3e224aa330a7d218402a812613))
+
 ### [3.0.5](https://github.com/eliberty/test-repo/compare/v3.0.4...v3.0.5) (2020-03-08)
 
 
